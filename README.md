@@ -1,5 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
 
+<div id="badges" align="center">
+  <a href="https://fr.linkedin.com/in/maxime-blandin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
+  </a>
+  <a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge"/>
+  </a>
+</div>
 <!--
 **obamask/obamask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
