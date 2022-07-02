@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
 </div>
 
 <div id="badges" align="center">
@@ -15,9 +15,15 @@
   <img src="https://komarev.com/ghpvc/?username=obamask&style=for-the-badge&color=blue" alt="Profile views counter"/>
 </div>
 
-<div id="title" align="center">
-<h1>
-  hi there !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
-</h1>
-</div>
+
+---
+
+### :man_technologist: Who am I ?
+I am a mechatronics and robotics engineer living in France !
+- :telescope: I’m working as a Robotics and Automation Engineer in industrial fields, helping companies computerizing their methods.
+
+- :seedling: Looking for learning more and more competences in the programming thing, exploring several languages.
+
+- :zap: In my free time, I enjoy hiking and drone photography. I also am a "maker", I make my ideas become alive !
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/maxime-blandin)
