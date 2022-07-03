@@ -24,6 +24,6 @@ I am a mechatronics and robotics engineer living in France !
 
 - :seedling: Looking for learning more and more competences in the programming thing, exploring several languages.
 
-- :zap: In my free time, I enjoy hiking and drone photography. I also am a "maker", I make my ideas become alive !
+- :zap: In my free time, I enjoy creating electronical projects, in relation with electronics, programming and domotic
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/maxime-blandin)
