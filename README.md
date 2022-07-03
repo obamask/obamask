@@ -20,13 +20,13 @@
 
 ### :man_technologist: Who am I ?
 I am a mechatronics and robotics engineer living in France !
-- :telescope: I’m working as a Robotics and Automation Engineer in industrial fields, helping companies computerizing their methods.
+- :telescope: I’m working as a Robotics and Automation Engineer in industrial fields, helping companies computerizing their methods via installing industrial robots and PLCs.
 
 - :seedling: Looking for learning more and more competences in the programming thing, exploring several languages.
 
-- :zap: In my free time, I enjoy creating electronical projects, in relation with electronics, programming and domotic
+- :zap: In my free time, I enjoy creating electronical projects, in relation with electronics, programming and domotics.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/maxime-blandin)
+- :mailbox: I am reachable through my LinkedIn or Twitter profiles.
 
 ---
 
